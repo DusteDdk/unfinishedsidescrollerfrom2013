@@ -1,0 +1,1 @@
+One texture pr weapon, first frame = idle, next frames = fire

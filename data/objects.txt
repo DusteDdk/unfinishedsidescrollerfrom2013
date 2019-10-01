@@ -1,0 +1,80 @@
+//This file is case sensitive.
+// C++ style comments only.
+//Full object defination:
+//[name]
+//sprite:string_path_to_sprite(gfx/blabla/sprite.tex)
+//health:int_healthpoints
+//colDmg:int_healthpoints taken on impact with obj
+//accelSpeed:float,float accelerating speed
+//maxSpeed:float,float max moving speed
+//cruiseSpeed:float,float normal cruise speed
+//movePattern:int movement behaviour
+//shootPattern:int shooting behaviour
+//introPattern:int how will the obj travel into the scene
+//
+//An incomplete definition will set all undefined to 0.
+//Blank lines are ignored. [[section]] adds a section (for clarity/organizing in the editor)
+
+
+//The players ship (starting position)
+[playerShip]
+sprite:gfx/testhull.png
+colDmg:500 //Actually this will be set in code
+
+[effector]
+sprite:gfx/editor/fx.tex
+
+[camLimTop]
+sprite:gfx/editor/camlimittop.png
+
+[camLimBottom]
+sprite:gfx/editor/camlimitbottom.png
+
+[battery]
+sprite:gfx/objs/shieldpower.tex
+
+[repairKit]
+sprite:gfx/objs/repairkit.tex
+
+[cargoBox]
+sprite:gfx/objs/cargobox.tex
+
+
+//An "object missing" object.
+[error]
+sprite:gfx/editor/err.png
+health:10000
+
+[[section]]
+
+[astroid0]
+sprite:gfx/objs/astroid1.tex
+health:600
+colDmg:400
+
+[astroid1]
+sprite:gfx/objs/astroid2.tex
+health:150
+colDmg:160
+
+
+[astroid2]
+sprite:gfx/objs/astroid3.tex
+health:500
+colDmg:450
+
+[astroid3]
+sprite:gfx/objs/astroid4.tex
+health:600
+colDmg:400
+
+[cutter1]
+sprite:gfx/nme/rot1.tex
+health:250
+colDmg:1000
+accelSpeed:0,0
+maxSpeed:0,0
+cruiseSpeed:0,0 //Todo: set this to something?
+movePattern:0
+shootPattern:0
+introPattern:0

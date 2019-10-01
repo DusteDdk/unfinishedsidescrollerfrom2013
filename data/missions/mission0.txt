@@ -1,0 +1,15 @@
+name=Joining the rebels.
+bounty=0
+file=mission0.lvl
+--brief--
+Hi, it's good to have you on the team!
+This is not the time for a longer explanation,
+we'll have to go over that some other time.
+But know that I'm personally very glad that
+you chose to join us, despite the violent
+past of our planets.
+
+Our next rendevouz will be at #######
+If we get close enough I'll call you via sublink.
+
+Good luck.                             -hNor Tzi

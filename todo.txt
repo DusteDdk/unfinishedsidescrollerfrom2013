@@ -1,0 +1,50 @@
+Camlimit skal tage hensyn til begge ender af kameraet
+
+Features:
+
+
+
+Weapons:
+  4 brrl minigun (top, bottom) - bottom done, top still missing animation/description
+  8 brrl minigun (bottom) - done
+  16 brrl minigun (Front)
+  MissileBox1 (bottom) - done
+  
+  MissileBox2 (bottom) : 
+    Multiple missiles fired, heatseekers
+  
+  Aiming LaserCannon (Top) :
+    Aims at most powerful nme (as in starting HP) and shoots a powerful beam
+    
+  plasma cannon (front, bottom, top)
+    Rapidly fires large blasts of plasma
+  
+  megaultracharged aiming laser (fron)
+    slowly Fires extremely powerful and wide laserbeam at strongest target
+    
+Cargo space:
+  Shield drone:
+    Small drone that will fly in front of ship, providing a shield )
+  
+  Suicide drone:
+    This drone will fly to the middle of a number of enemies, and implode
+   
+  Hunter drone:
+    Drone flies around your ship, killing enemies at random
+     
+  The A Bomb(TM)(R):
+   Flies out in the middle of screen, deals a great deal of dmg to everyone on screen (except player-friendly)
+
+  LootBox:
+    Fly over debris to gain bonus
+
+
+
+--
+Longterm:
+sprMan: Hvis klienten ikke understøtter nonpot textures (eller det er slået fra i configgen) så pak billede i en POT texture
+sprMan(2): Hvis klient ikke understøtter textur størrelsen, resample den til den størst mulige.
+sprMan(longterm): Optimize: Læs alle sprite størrelser igennem, beregn derefter den bedst mulige placering på N textures, placer, og opdater infos.
+
+TxtClass, Backgrounds Reload når ResSkift
+knap klasse: kun 1 textur, som skal indeholde frames 0=idle, 1= hover, 1->end=push

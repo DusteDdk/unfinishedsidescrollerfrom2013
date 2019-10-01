@@ -1,0 +1,15 @@
+name=Joining the rebels.
+bounty=5000
+file=mission1.lvl
+--brief--
+Sorry for not calling, but we flew into
+trouble. Anyway, let me tell you a bit
+about our organization. We still have no idea
+why the army is figthing the invaders
+but we won't just sit there, doing nothing
+while our home planets are being destroyed!
+If you compleate the next mission, we are able
+to give you money so that you can upgrade
+that tincan that you call a ship :)
+
+I wish you the best of luck my friend.

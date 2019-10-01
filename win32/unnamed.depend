@@ -1,0 +1,2809 @@
+# depslib dependency file v1.0
+1244918855 source:/home/dusted/Desktop/kode/sidescroller/background.cpp
+	"background.hpp"
+	"dirs.hpp"
+	"background.hpp"
+	"dirs.hpp"
+
+1250197238 
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/background.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<math.h>
+	"console.hpp"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<math.h>
+	"console.hpp"
+
+1250197237 pp"
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/console.hpp
+	<iostream>
+	<stdarg.h>
+	<vector>
+	<cmath>
+	"text.hpp"
+	"scene.hpp"
+	"control.hpp"
+	<iostream>
+	<stdarg.h>
+	<vector>
+	<cmath>
+	"text.hpp"
+	"scene.hpp"
+	"control.hpp"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/text.hpp
+	<iostream>
+	<SDL/SDL_ttf.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	"dirs.hpp"
+	<iostream>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	"dirs.hpp"
+
+1239131903 /home/dusted/Desktop/kode/sidescroller/dirs.hpp
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/scene.hpp
+	"general.hpp"
+	"general.hpp"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/control.hpp
+	<SDL/SDL.h>
+	"scene.hpp"
+	"console.hpp"
+	<SDL/SDL.h>
+	"scene.hpp"
+	"console.hpp"
+
+1247778624 source:/home/dusted/Desktop/kode/sidescroller/button.cpp
+	"button.hpp"
+	"control.hpp"
+	"dirs.hpp"
+	"button.hpp"
+	"control.hpp"
+	"dirs.hpp"
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/button.hpp
+	"sprite.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"control.hpp"
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/sprite.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fstream>
+	<iostream>
+	<list>
+	<vector>
+	"dirs.hpp"
+	"scene.hpp"
+	"console.hpp"
+	"general.hpp"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fstream>
+	<iostream>
+	<list>
+	<vector>
+	"dirs.hpp"
+	"scene.hpp"
+	"console.hpp"
+	"general.hpp"
+
+1251410882 /home/dusted/Desktop/kode/sidescroller/general.hpp
+	<GL/glew.h>
+	<GL/gl.h>
+	<cmath>
+	"console.hpp"
+	<iostream>
+	<GL/gl.h>
+	<cmath>
+	"console.hpp"
+
+1244918855 source:/home/dusted/Desktop/kode/sidescroller/buttonset.cpp
+	"buttonset.hpp"
+	"buttonset.hpp"
+
+1250196930 .hpp"
+
+1244918855 /home/dusted/Desktop/kode/sidescroller/buttonset.hpp
+	<vector>
+	"control.hpp"
+	"button.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	<vector>
+	"control.hpp"
+	"button.hpp"
+	"sprite.hpp"
+	"console.hpp"
+
+1247778624 source:/home/dusted/Desktop/kode/sidescroller/checkbox.cpp
+	"checkbox.hpp"
+	"checkbox.hpp"
+
+1250197237 hpp"
+
+1240333277 /home/dusted/Desktop/kode/sidescroller/checkbox.hpp
+	<iostream>
+	"sprite.hpp"
+	"control.hpp"
+	<iostream>
+	"sprite.hpp"
+	"control.hpp"
+
+1251418331 source:/home/dusted/Desktop/kode/sidescroller/collisiontest.cpp
+	"collisiontest.hpp"
+	"collisiontest.hpp"
+
+1250197238 test.hpp"
+
+1251418168 /home/dusted/Desktop/kode/sidescroller/collisiontest.hpp
+	"sprite.hpp"
+	"general.hpp"
+	"console.hpp"
+	"sprite.hpp"
+	"general.hpp"
+	"console.hpp"
+
+1244918855 source:/home/dusted/Desktop/kode/sidescroller/console.cpp
+	"console.hpp"
+	"console.hpp"
+
+1250627056 source:/home/dusted/Desktop/kode/sidescroller/control.cpp
+	"control.hpp"
+	<iostream>
+	"control.hpp"
+	<iostream>
+
+1239131903 source:/home/dusted/Desktop/kode/sidescroller/dirs.cpp
+	"dirs.hpp"
+	<windows.h>
+	"dirs.hpp"
+	<windows.h>
+
+1250197237 >
+
+1250627056 source:/home/dusted/Desktop/kode/sidescroller/editor.cpp
+	"editor.hpp"
+	"editor.hpp"
+
+1250197238 p"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/editor.hpp
+	<vector>
+	"sprite.hpp"
+	"control.hpp"
+	"text.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"dirs.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"level.hpp"
+	"ents.hpp"
+	"entspawner.hpp"
+	<vector>
+	"sprite.hpp"
+	"control.hpp"
+	"text.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"dirs.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"level.hpp"
+	"ents.hpp"
+	"entspawner.hpp"
+
+1250207131 r.hpp"
+
+1250796242 /home/dusted/Desktop/kode/sidescroller/settings.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"dirs.hpp"
+	"console.hpp"
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"dirs.hpp"
+	"console.hpp"
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/label.hpp
+	"text.hpp"
+	"control.hpp"
+	"text.hpp"
+	"control.hpp"
+
+1251412697 /home/dusted/Desktop/kode/sidescroller/level.hpp
+	<algorithm>
+	<vector>
+	<cmath>
+	"entspawner.hpp"
+	"settings.hpp"
+	"console.hpp"
+	"general.hpp"
+	<algorithm>
+	<vector>
+	<cmath>
+	"entspawner.hpp"
+	"settings.hpp"
+	"console.hpp"
+	"general.hpp"
+	"ents/bullets.hpp"
+
+1251412350 /home/dusted/Desktop/kode/sidescroller/entspawner.hpp
+	<vector>
+	<dirent.h>
+	"dirs.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	"ents.hpp"
+	"ents/playership.hpp"
+	"ents/camlimit.hpp"
+	"ents/background.hpp"
+	"ents/astroid.hpp"
+	"ents/cargobox.hpp"
+	"ents/effector.hpp"
+	<vector>
+	<dirent.h>
+	"dirs.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	"ents.hpp"
+	"ents/playership.hpp"
+	"ents/camlimit.hpp"
+	"ents/background.hpp"
+	"ents/astroid.hpp"
+	"ents/cargobox.hpp"
+	"ents/effector.hpp"
+	"ents/bullets.hpp"
+
+1250197237 ctor.hpp"
+
+1251422458 /home/dusted/Desktop/kode/sidescroller/ents.hpp
+	"sprite.hpp"
+	"control.hpp"
+	"camcontrol.hpp"
+	"sprite.hpp"
+	"control.hpp"
+	"camcontrol.hpp"
+	"collisiontest.hpp"
+	"ents/bullets.hpp"
+
+1250196936 l.hpp"
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/camcontrol.hpp
+	<vector>
+	"ents.hpp"
+	"scene.hpp"
+	"general.hpp"
+	<vector>
+	"ents.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1251410882 /home/dusted/Desktop/kode/sidescroller/ents/playership.hpp
+	"../ents.hpp"
+	"../playerprofile.hpp"
+	"weapon.hpp"
+	"../ents.hpp"
+	"../playerprofile.hpp"
+	"weapon.hpp"
+
+1251052406 /home/dusted/Desktop/kode/sidescroller/playerprofile.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"isfile.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"isfile.hpp"
+	"dirs.hpp"
+	"console.hpp"
+
+1239131903 /home/dusted/Desktop/kode/sidescroller/isfile.hpp
+	<sys/stat.h>
+	<iostream>
+	<sys/stat.h>
+	<iostream>
+
+1251410882 /home/dusted/Desktop/kode/sidescroller/ents/weapon.hpp
+	"../sprite.hpp"
+	"ammo.hpp"
+	"../general.hpp"
+	"../sprite.hpp"
+	"ammo.hpp"
+	"../general.hpp"
+	"bullets.hpp"
+
+1251416852 /home/dusted/Desktop/kode/sidescroller/ents/ammo.hpp
+	"../sprite.hpp"
+	"../general.hpp"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/ents/camlimit.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1242237121 /home/dusted/Desktop/kode/sidescroller/ents/background.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/ents/astroid.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/ents/cargobox.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1247944383 /home/dusted/Desktop/kode/sidescroller/ents/effector.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1248122079 source:/home/dusted/Desktop/kode/sidescroller/effectqueue.cpp
+	"effectqueue.hpp"
+	"effectqueue.hpp"
+
+1250197238 ue.hpp"
+
+1247971792 /home/dusted/Desktop/kode/sidescroller/effectqueue.hpp
+	<list>
+	"general.hpp"
+	"console.hpp"
+	"effects/effectresource.hpp"
+	"effects/base.hpp"
+	"effects/fxspeedup.hpp"
+	<list>
+	"general.hpp"
+	"console.hpp"
+	"effects/effectresource.hpp"
+	"effects/base.hpp"
+	"effects/fxspeedup.hpp"
+
+1250197237 xspeedup.hpp"
+
+1247968979 /home/dusted/Desktop/kode/sidescroller/effects/effectresource.hpp
+	"../general.hpp"
+	"../console.hpp"
+	"../camcontrol.hpp"
+	"../scene.hpp"
+	"../general.hpp"
+	"../console.hpp"
+	"../camcontrol.hpp"
+	"../scene.hpp"
+
+1248120519 /home/dusted/Desktop/kode/sidescroller/effects/base.hpp
+	"effectresource.hpp"
+	"effectresource.hpp"
+
+1250196930 ource.hpp"
+
+1247979298 /home/dusted/Desktop/kode/sidescroller/effects/fxspeedup.hpp
+	"base.hpp"
+	"base.hpp"
+
+1248122101 source:/home/dusted/Desktop/kode/sidescroller/effects/fxspeedup.cpp
+	"fxspeedup.hpp"
+	"fxspeedup.hpp"
+
+1251422524 source:/home/dusted/Desktop/kode/sidescroller/ents.cpp
+	"ents.hpp"
+	"ents.hpp"
+
+1251417979 source:/home/dusted/Desktop/kode/sidescroller/ents/ammo.cpp
+	"ammo.hpp"
+	"ammo.hpp"
+	<iostream>
+
+1250627056 source:/home/dusted/Desktop/kode/sidescroller/ents/astroid.cpp
+	"astroid.hpp"
+	"astroid.hpp"
+
+1242237121 source:/home/dusted/Desktop/kode/sidescroller/ents/background.cpp
+	"background.hpp"
+	"background.hpp"
+
+1250196936 d.hpp"
+
+1250627056 source:/home/dusted/Desktop/kode/sidescroller/ents/camlimit.cpp
+	"camlimit.hpp"
+	"camlimit.hpp"
+
+1250627056 source:/home/dusted/Desktop/kode/sidescroller/ents/cargobox.cpp
+	"cargobox.hpp"
+	"cargobox.hpp"
+
+1247944383 source:/home/dusted/Desktop/kode/sidescroller/ents/effector.cpp
+	"effector.hpp"
+	"effector.hpp"
+
+1251422424 source:/home/dusted/Desktop/kode/sidescroller/ents/playership.cpp
+	"playership.hpp"
+	"playership.hpp"
+
+1250202512 p.hpp"
+
+1251410882 source:/home/dusted/Desktop/kode/sidescroller/ents/weapon.cpp
+	"weapon.hpp"
+	"weapon.hpp"
+
+1251412537 source:/home/dusted/Desktop/kode/sidescroller/entspawner.cpp
+	"entspawner.hpp"
+	"entspawner.hpp"
+
+1251423429 source:/home/dusted/Desktop/kode/sidescroller/game.cpp
+	"game.hpp"
+	"game.hpp"
+
+1251420352 /home/dusted/Desktop/kode/sidescroller/game.hpp
+	<vector>
+	"glfx.hpp"
+	"level.hpp"
+	"text.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"playerprofile.hpp"
+	"settings.hpp"
+	"scene.hpp"
+	"camcontrol.hpp"
+	"missioninfo.hpp"
+	"hud.hpp"
+	"gameinfo.hpp"
+	"console.hpp"
+	"terrain.hpp"
+	"collisiontest.hpp"
+	"effectqueue.hpp"
+	<vector>
+	"glfx.hpp"
+	"level.hpp"
+	"text.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"playerprofile.hpp"
+	"settings.hpp"
+	"scene.hpp"
+	"camcontrol.hpp"
+	"missioninfo.hpp"
+	"hud.hpp"
+	"gameinfo.hpp"
+	"console.hpp"
+	"terrain.hpp"
+	"collisiontest.hpp"
+	"effectqueue.hpp"
+	"ents/bullets.hpp"
+
+1244918855 /home/dusted/Desktop/kode/sidescroller/missioninfo.hpp
+	<fstream>
+	<iostream>
+	<vector>
+	"console.hpp"
+	"dirs.hpp"
+	<fstream>
+	<iostream>
+	<vector>
+	"console.hpp"
+	"dirs.hpp"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/hud.hpp
+	"gameinfo.hpp"
+	"sprite.hpp"
+	"scene.hpp"
+	"text.hpp"
+	"gameinfo.hpp"
+	"sprite.hpp"
+	"scene.hpp"
+	"text.hpp"
+
+1247864425 /home/dusted/Desktop/kode/sidescroller/gameinfo.hpp
+	"playerprofile.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+	"playerprofile.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1250201973 ership.hpp"
+
+1247778624 /home/dusted/Desktop/kode/sidescroller/terrain.hpp
+	<vector>
+	"console.hpp"
+	"level.hpp"
+	"scene.hpp"
+	"general.hpp"
+	<vector>
+	"console.hpp"
+	"level.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1251052406 source:/home/dusted/Desktop/kode/sidescroller/general.cpp
+	"general.hpp"
+	"general.hpp"
+
+1250627056 source:/home/dusted/Desktop/kode/sidescroller/hud.cpp
+	"hud.hpp"
+	"hud.hpp"
+
+1239131903 source:/home/dusted/Desktop/kode/sidescroller/isfile.cpp
+	"isfile.hpp"
+	"isfile.hpp"
+
+1241978284 source:/home/dusted/Desktop/kode/sidescroller/label.cpp
+	"label.hpp"
+	"label.hpp"
+
+1250197237 "
+
+1251412673 source:/home/dusted/Desktop/kode/sidescroller/level.cpp
+	"level.hpp"
+	"level.hpp"
+
+1251423009 source:/home/dusted/Desktop/kode/sidescroller/main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<windows.h>
+	<GL/glext.h>
+	"scene.hpp"
+	"settings.hpp"
+	"menu.hpp"
+	"text.hpp"
+	"sprite.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"screenshot.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	"glfx.hpp"
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<windows.h>
+	<GL/glext.h>
+	"scene.hpp"
+	"settings.hpp"
+	"menu.hpp"
+	"text.hpp"
+	"sprite.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"screenshot.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	"glfx.hpp"
+	"nag.hpp"
+
+1250801682 /home/dusted/Desktop/kode/sidescroller/menu.hpp
+	<vector>
+	"button.hpp"
+	"checkbox.hpp"
+	"control.hpp"
+	"label.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"sprite.hpp"
+	"dirs.hpp"
+	"playerprofile.hpp"
+	"itemInfo.hpp"
+	"editor.hpp"
+	"game.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+	<vector>
+	"button.hpp"
+	"checkbox.hpp"
+	"control.hpp"
+	"label.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"sprite.hpp"
+	"dirs.hpp"
+	"playerprofile.hpp"
+	"itemInfo.hpp"
+	"editor.hpp"
+	"game.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1239131903 /home/dusted/Desktop/kode/sidescroller/itemInfo.hpp
+	<iostream>
+	"sprite.hpp"
+	<iostream>
+	"sprite.hpp"
+
+1248120520 /home/dusted/Desktop/kode/sidescroller/screenshot.hpp
+	"general.hpp"
+	<GL/glext.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<iostream>
+	"console.hpp"
+	"general.hpp"
+	<GL/glext.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<iostream>
+	"console.hpp"
+
+1251052406 source:/home/dusted/Desktop/kode/sidescroller/menu.cpp
+	"menu.hpp"
+	"menu.hpp"
+
+1244918855 source:/home/dusted/Desktop/kode/sidescroller/missioninfo.cpp
+	"missioninfo.hpp"
+	"missioninfo.hpp"
+
+1250197238 fo.hpp"
+
+1244918855 source:/home/dusted/Desktop/kode/sidescroller/playerprofile.cpp
+	"playerprofile.hpp"
+	<stdio.h>
+	<string.h>
+	"playerprofile.hpp"
+	<stdio.h>
+	<string.h>
+
+1244918855 source:/home/dusted/Desktop/kode/sidescroller/screenshot.cpp
+	"screenshot.hpp"
+	"screenshot.hpp"
+
+1250197237 t.hpp"
+
+1250796577 source:/home/dusted/Desktop/kode/sidescroller/settings.cpp
+	"settings.hpp"
+	"settings.hpp"
+
+1251052406 source:/home/dusted/Desktop/kode/sidescroller/sprite.cpp
+	"sprite.hpp"
+	"sprite.hpp"
+
+1247861353 source:/home/dusted/Desktop/kode/sidescroller/terrain.cpp
+	"terrain.hpp"
+	"terrain.hpp"
+
+1247778624 source:/home/dusted/Desktop/kode/sidescroller/text.cpp
+	"text.hpp"
+	"text.hpp"
+
+1250628186 source:/home/dusted/Desktop/kode/sidescroller/camcontrol.cpp
+	"camcontrol.hpp"
+	"camcontrol.hpp"
+
+1250627056 source:/home/dusted/Desktop/kode/sidescroller/glfx.cpp
+	"glfx.hpp"
+	"glfx.hpp"
+
+1250627056 /home/dusted/Desktop/kode/sidescroller/glfx.hpp
+	<GL/glew.h>
+	"settings.hpp"
+	"scene.hpp"
+	"general.hpp"
+	"console.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	"settings.hpp"
+	"scene.hpp"
+	"general.hpp"
+	"console.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+
+1244609856 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/background.cpp
+	"background.hpp"
+	"dirs.hpp"
+	"background.hpp"
+	"dirs.hpp"
+
+1248057798 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/background.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<math.h>
+	"console.hpp"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<math.h>
+	"console.hpp"
+
+1248058149 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/console.hpp
+	<iostream>
+	<stdarg.h>
+	<vector>
+	<cmath>
+	"text.hpp"
+	"scene.hpp"
+	"control.hpp"
+	<iostream>
+	<stdarg.h>
+	<vector>
+	<cmath>
+	"text.hpp"
+	"scene.hpp"
+	"control.hpp"
+
+1250214802 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/text.hpp
+	<iostream>
+	<SDL/SDL_ttf.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	"dirs.hpp"
+	<iostream>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	"dirs.hpp"
+
+1244610334 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/dirs.hpp
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1248057893 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/scene.hpp
+	"general.hpp"
+	"general.hpp"
+
+1248890225 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/control.hpp
+	<SDL/SDL.h>
+	"scene.hpp"
+	"console.hpp"
+	<SDL/SDL.h>
+	"scene.hpp"
+	"console.hpp"
+
+1246896628 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/button.cpp
+	"button.hpp"
+	"control.hpp"
+	"dirs.hpp"
+	"button.hpp"
+	"control.hpp"
+	"dirs.hpp"
+
+1248057876 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/button.hpp
+	"sprite.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"control.hpp"
+
+1248058080 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/sprite.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fstream>
+	<iostream>
+	<list>
+	<vector>
+	"dirs.hpp"
+	"scene.hpp"
+	"console.hpp"
+	"general.hpp"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fstream>
+	<iostream>
+	<list>
+	<vector>
+	"dirs.hpp"
+	"scene.hpp"
+	"console.hpp"
+	"general.hpp"
+
+1251322785 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/general.hpp
+	<GL/glew.h>
+	<GL/gl.h>
+	<cmath>
+	"console.hpp"
+	<iostream>
+	<GL/gl.h>
+	<cmath>
+	"console.hpp"
+
+1244610341 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/buttonset.cpp
+	"buttonset.hpp"
+	"buttonset.hpp"
+
+1244610360 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/buttonset.hpp
+	<vector>
+	"control.hpp"
+	"button.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	<vector>
+	"control.hpp"
+	"button.hpp"
+	"sprite.hpp"
+	"console.hpp"
+
+1246896677 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/checkbox.cpp
+	"checkbox.hpp"
+	"checkbox.hpp"
+
+1240092537 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/checkbox.hpp
+	<iostream>
+	"sprite.hpp"
+	"control.hpp"
+	<iostream>
+	"sprite.hpp"
+	"control.hpp"
+
+1251548823 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/collisiontest.cpp
+	"collisiontest.hpp"
+	"collisiontest.hpp"
+
+1251548816 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/collisiontest.hpp
+	"sprite.hpp"
+	"general.hpp"
+	"console.hpp"
+	"sprite.hpp"
+	"general.hpp"
+	"console.hpp"
+
+1244617259 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/console.cpp
+	"console.hpp"
+	"console.hpp"
+
+1250886208 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/control.cpp
+	"control.hpp"
+	<iostream>
+	"control.hpp"
+	<iostream>
+
+1244610402 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/dirs.cpp
+	"dirs.hpp"
+	<windows.h>
+	"dirs.hpp"
+	<windows.h>
+
+1251474892 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents.cpp
+	"ents.hpp"
+	"ents.hpp"
+
+1251474892 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents.hpp
+	"sprite.hpp"
+	"control.hpp"
+	"camcontrol.hpp"
+	"collisiontest.hpp"
+	"sprite.hpp"
+	"control.hpp"
+	"camcontrol.hpp"
+	"collisiontest.hpp"
+	"ents/bullets.hpp"
+
+1248057876 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/camcontrol.hpp
+	<vector>
+	"ents.hpp"
+	"scene.hpp"
+	"general.hpp"
+	<vector>
+	"ents.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1251474891 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/ammo.cpp
+	"ammo.hpp"
+	"ammo.hpp"
+	<iostream>
+
+1251474891 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/ammo.hpp
+	"../sprite.hpp"
+	"../general.hpp"
+
+1248683117 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/astroid.cpp
+	"astroid.hpp"
+	"astroid.hpp"
+
+1248683105 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/astroid.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1242224332 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/background.cpp
+	"background.hpp"
+	"background.hpp"
+
+1242224358 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/background.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1248684224 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/camlimit.cpp
+	"camlimit.hpp"
+	"camlimit.hpp"
+
+1248684250 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/camlimit.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1248684704 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/cargobox.cpp
+	"cargobox.hpp"
+	"cargobox.hpp"
+
+1248684695 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/cargobox.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1247916061 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/effector.cpp
+	"effector.hpp"
+	"effector.hpp"
+
+1247916065 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/effector.hpp
+	"../ents.hpp"
+	"../ents.hpp"
+
+1251474891 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/playership.cpp
+	"playership.hpp"
+	"playership.hpp"
+
+1252520008 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/playership.hpp
+	"../ents.hpp"
+	"../playerprofile.hpp"
+	"weapon.hpp"
+	"../ents.hpp"
+	"../playerprofile.hpp"
+	"weapon.hpp"
+
+1250881890 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/playerprofile.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"isfile.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"isfile.hpp"
+	"dirs.hpp"
+	"console.hpp"
+
+1238710595 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/isfile.hpp
+	<sys/stat.h>
+	<iostream>
+	<sys/stat.h>
+	<iostream>
+
+1251323675 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/weapon.hpp
+	"../sprite.hpp"
+	"ammo.hpp"
+	"../general.hpp"
+	"../sprite.hpp"
+	"ammo.hpp"
+	"../general.hpp"
+	"bullets.hpp"
+
+1251323331 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/weapon.cpp
+	"weapon.hpp"
+	"weapon.hpp"
+
+1248890143 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/hud.cpp
+	"hud.hpp"
+	"hud.hpp"
+
+1248390295 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/hud.hpp
+	"gameinfo.hpp"
+	"sprite.hpp"
+	"scene.hpp"
+	"text.hpp"
+	"gameinfo.hpp"
+	"sprite.hpp"
+	"scene.hpp"
+	"text.hpp"
+
+1247882675 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/gameinfo.hpp
+	"playerprofile.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+	"playerprofile.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1244611201 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/missioninfo.hpp
+	<fstream>
+	<iostream>
+	<vector>
+	"console.hpp"
+	"dirs.hpp"
+	<fstream>
+	<iostream>
+	<vector>
+	"console.hpp"
+	"dirs.hpp"
+
+1238710595 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/isfile.cpp
+	"isfile.hpp"
+	"isfile.hpp"
+
+1241021750 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/label.cpp
+	"label.hpp"
+	"label.hpp"
+
+1248057876 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/label.hpp
+	"text.hpp"
+	"control.hpp"
+	"text.hpp"
+	"control.hpp"
+
+1251474892 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/level.cpp
+	"level.hpp"
+	"level.hpp"
+
+1251474892 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/level.hpp
+	<algorithm>
+	<vector>
+	<cmath>
+	"entspawner.hpp"
+	"settings.hpp"
+	"console.hpp"
+	"general.hpp"
+	<algorithm>
+	<vector>
+	<cmath>
+	"entspawner.hpp"
+	"settings.hpp"
+	"console.hpp"
+	"general.hpp"
+	"ents/bullets.hpp"
+
+1251474892 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/entspawner.hpp
+	<vector>
+	<dirent.h>
+	"dirs.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	"ents.hpp"
+	"ents/playership.hpp"
+	"ents/camlimit.hpp"
+	"ents/background.hpp"
+	"ents/astroid.hpp"
+	"ents/cargobox.hpp"
+	"ents/effector.hpp"
+	<vector>
+	<dirent.h>
+	"dirs.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	"ents.hpp"
+	"ents/playership.hpp"
+	"ents/camlimit.hpp"
+	"ents/background.hpp"
+	"ents/astroid.hpp"
+	"ents/cargobox.hpp"
+	"ents/effector.hpp"
+	"ents/bullets.hpp"
+
+1250876828 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/settings.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"dirs.hpp"
+	"console.hpp"
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"dirs.hpp"
+	"console.hpp"
+
+1250955231 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/menu.cpp
+	"menu.hpp"
+	"menu.hpp"
+
+1250876828 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/menu.hpp
+	<vector>
+	"button.hpp"
+	"checkbox.hpp"
+	"control.hpp"
+	"label.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"sprite.hpp"
+	"dirs.hpp"
+	"playerprofile.hpp"
+	"itemInfo.hpp"
+	"editor.hpp"
+	"game.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+	<vector>
+	"button.hpp"
+	"checkbox.hpp"
+	"control.hpp"
+	"label.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"sprite.hpp"
+	"dirs.hpp"
+	"playerprofile.hpp"
+	"itemInfo.hpp"
+	"editor.hpp"
+	"game.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1238875009 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/itemInfo.hpp
+	<iostream>
+	"sprite.hpp"
+	<iostream>
+	"sprite.hpp"
+
+1248638999 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/editor.hpp
+	<vector>
+	"sprite.hpp"
+	"control.hpp"
+	"text.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"dirs.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"level.hpp"
+	"ents.hpp"
+	"entspawner.hpp"
+	<vector>
+	"sprite.hpp"
+	"control.hpp"
+	"text.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"dirs.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"level.hpp"
+	"ents.hpp"
+	"entspawner.hpp"
+
+1251474892 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/game.hpp
+	<vector>
+	"glfx.hpp"
+	"level.hpp"
+	"text.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"playerprofile.hpp"
+	"settings.hpp"
+	"scene.hpp"
+	"camcontrol.hpp"
+	"missioninfo.hpp"
+	"hud.hpp"
+	"gameinfo.hpp"
+	"console.hpp"
+	"terrain.hpp"
+	"collisiontest.hpp"
+	"effectqueue.hpp"
+	<vector>
+	"glfx.hpp"
+	"level.hpp"
+	"text.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"playerprofile.hpp"
+	"settings.hpp"
+	"scene.hpp"
+	"camcontrol.hpp"
+	"missioninfo.hpp"
+	"hud.hpp"
+	"gameinfo.hpp"
+	"console.hpp"
+	"terrain.hpp"
+	"collisiontest.hpp"
+	"effectqueue.hpp"
+	"ents/bullets.hpp"
+
+1247078047 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/terrain.hpp
+	<vector>
+	"console.hpp"
+	"level.hpp"
+	"scene.hpp"
+	"general.hpp"
+	<vector>
+	"console.hpp"
+	"level.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1247991158 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/effectqueue.hpp
+	<list>
+	"general.hpp"
+	"console.hpp"
+	"effects/effectresource.hpp"
+	"effects/base.hpp"
+	"effects/fxspeedup.hpp"
+	<list>
+	"general.hpp"
+	"console.hpp"
+	"effects/effectresource.hpp"
+	"effects/base.hpp"
+	"effects/fxspeedup.hpp"
+
+1247991157 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/effects/effectresource.hpp
+	"../general.hpp"
+	"../console.hpp"
+	"../camcontrol.hpp"
+	"../scene.hpp"
+	"../general.hpp"
+	"../console.hpp"
+	"../camcontrol.hpp"
+	"../scene.hpp"
+
+1248059662 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/effects/base.hpp
+	"effectresource.hpp"
+	"effectresource.hpp"
+
+1247991157 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/effects/fxspeedup.hpp
+	"base.hpp"
+	"base.hpp"
+
+1244616855 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/missioninfo.cpp
+	"missioninfo.hpp"
+	"missioninfo.hpp"
+
+1244611184 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/playerprofile.cpp
+	"playerprofile.hpp"
+	<stdio.h>
+	<string.h>
+	"playerprofile.hpp"
+	<stdio.h>
+	<string.h>
+
+1244611322 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/screenshot.cpp
+	"screenshot.hpp"
+	"screenshot.hpp"
+
+1248058063 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/screenshot.hpp
+	"general.hpp"
+	<GL/glext.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<iostream>
+	"console.hpp"
+	"general.hpp"
+	<GL/glext.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<iostream>
+	"console.hpp"
+
+1250876828 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/settings.cpp
+	"settings.hpp"
+	"settings.hpp"
+
+1250970105 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/sprite.cpp
+	"sprite.hpp"
+	"sprite.hpp"
+
+1247797923 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/terrain.cpp
+	"terrain.hpp"
+	"terrain.hpp"
+
+1247711117 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/text.cpp
+	"text.hpp"
+	"text.hpp"
+
+1250698500 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/camcontrol.cpp
+	"camcontrol.hpp"
+	"camcontrol.hpp"
+
+1248680706 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/editor.cpp
+	"editor.hpp"
+	"editor.hpp"
+
+1248221365 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/effectqueue.cpp
+	"effectqueue.hpp"
+	"effectqueue.hpp"
+
+1248221364 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/effects/fxspeedup.cpp
+	"fxspeedup.hpp"
+	"fxspeedup.hpp"
+
+1251474892 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/entspawner.cpp
+	"entspawner.hpp"
+	"entspawner.hpp"
+
+1251549032 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/game.cpp
+	"game.hpp"
+	"game.hpp"
+
+1250885384 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/general.cpp
+	"general.hpp"
+	"general.hpp"
+
+1250214802 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/glfx.cpp
+	"glfx.hpp"
+	"glfx.hpp"
+
+1250214802 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/glfx.hpp
+	<GL/glew.h>
+	"settings.hpp"
+	"scene.hpp"
+	"general.hpp"
+	"console.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	"settings.hpp"
+	"scene.hpp"
+	"general.hpp"
+	"console.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+
+1251474892 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<windows.h>
+	<GL/glext.h>
+	"scene.hpp"
+	"settings.hpp"
+	"menu.hpp"
+	"text.hpp"
+	"sprite.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"screenshot.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	"glfx.hpp"
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<windows.h>
+	<GL/glext.h>
+	"scene.hpp"
+	"settings.hpp"
+	"menu.hpp"
+	"text.hpp"
+	"sprite.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"screenshot.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	"glfx.hpp"
+	"nag.hpp"
+
+1248057226 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/glfx.cpp
+	"glfx.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\background.cpp
+	"background.hpp"
+	"dirs.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\background.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<math.h>
+	"console.hpp"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 e.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1250197229 g_minimal.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_platform.h
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1250197229 ityMacros.h>
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1250197229 orm.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\begin_code.h
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\close_code.h
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_keysym.h
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1250197229 .h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197237 c:\users\jonas\desktop\sidescroller\console.hpp
+	<iostream>
+	<stdarg.h>
+	<vector>
+	<cmath>
+	"text.hpp"
+	"scene.hpp"
+	"control.hpp"
+
+1250197282 c:\users\jonas\desktop\sidescroller\text.hpp
+	<iostream>
+	<SDL/SDL_ttf.h>
+	<GL/gl.h>
+	"dirs.hpp"
+
+1250197229 c:\users\jonas\desktop\sidescroller\win32\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250197238 c:\users\jonas\desktop\sidescroller\dirs.hpp
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1250197238 c:\users\jonas\desktop\sidescroller\scene.hpp
+	"general.hpp"
+
+1250197289 c:\users\jonas\desktop\sidescroller\general.hpp
+	<GL/gl.h>
+	<cmath>
+	"console.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\control.hpp
+	<SDL/SDL.h>
+	"scene.hpp"
+	"console.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\button.cpp
+	"button.hpp"
+	"control.hpp"
+	"dirs.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\button.hpp
+	"sprite.hpp"
+	"control.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\sprite.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fstream>
+	<iostream>
+	<list>
+	<vector>
+	"dirs.hpp"
+	"scene.hpp"
+	"console.hpp"
+	"general.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\buttonset.cpp
+	"buttonset.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\buttonset.hpp
+	<vector>
+	"control.hpp"
+	"button.hpp"
+	"sprite.hpp"
+	"console.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\camcontrol.cpp
+	"camcontrol.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\camcontrol.hpp
+	<vector>
+	"ents.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\ents.hpp
+	"sprite.hpp"
+	"control.hpp"
+	"camcontrol.hpp"
+	"collisiontest.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\collisiontest.hpp
+	"sprite.hpp"
+	"general.hpp"
+	"console.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\checkbox.cpp
+	"checkbox.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\checkbox.hpp
+	<iostream>
+	"sprite.hpp"
+	"control.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\collisiontest.cpp
+	"collisiontest.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\console.cpp
+	"console.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\control.cpp
+	"control.hpp"
+	<iostream>
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\dirs.cpp
+	"dirs.hpp"
+	<windows.h>
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\editor.cpp
+	"editor.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\editor.hpp
+	<vector>
+	"sprite.hpp"
+	"control.hpp"
+	"text.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"dirs.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"level.hpp"
+	"ents.hpp"
+	"entspawner.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\settings.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"dirs.hpp"
+	"console.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\label.hpp
+	"text.hpp"
+	"control.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\level.hpp
+	<algorithm>
+	<vector>
+	<cmath>
+	"entspawner.hpp"
+	"settings.hpp"
+	"console.hpp"
+	"general.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\entspawner.hpp
+	<vector>
+	<dirent.h>
+	"dirs.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	"ents.hpp"
+	"ents/playership.hpp"
+	"ents/camlimit.hpp"
+	"ents/background.hpp"
+	"ents/astroid.hpp"
+	"ents/cargobox.hpp"
+	"ents/effector.hpp"
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\playership.hpp
+	"../ents.hpp"
+	"../playerprofile.hpp"
+	"weapon.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\playerprofile.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"isfile.hpp"
+	"dirs.hpp"
+	"console.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\isfile.hpp
+	<sys/stat.h>
+	<iostream>
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\weapon.hpp
+	"../sprite.hpp"
+	"ammo.hpp"
+	"../general.hpp"
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\ammo.hpp
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\camlimit.hpp
+	"../ents.hpp"
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\background.hpp
+	"../ents.hpp"
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\astroid.hpp
+	"../ents.hpp"
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\cargobox.hpp
+	"../ents.hpp"
+
+1250196936 c:\users\jonas\desktop\sidescroller\ents\effector.hpp
+	"../ents.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\effectqueue.cpp
+	"effectqueue.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\effectqueue.hpp
+	<list>
+	"general.hpp"
+	"console.hpp"
+	"effects/effectresource.hpp"
+	"effects/base.hpp"
+	"effects/fxspeedup.hpp"
+
+1250196930 c:\users\jonas\desktop\sidescroller\effects\effectresource.hpp
+	"../general.hpp"
+	"../console.hpp"
+	"../camcontrol.hpp"
+	"../scene.hpp"
+
+1250196930 c:\users\jonas\desktop\sidescroller\effects\base.hpp
+	"effectresource.hpp"
+
+1250196930 c:\users\jonas\desktop\sidescroller\effects\fxspeedup.hpp
+	"base.hpp"
+
+1250196930 source:c:\users\jonas\desktop\sidescroller\effects\fxspeedup.cpp
+	"fxspeedup.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\ents.cpp
+	"ents.hpp"
+
+1250196936 source:c:\users\jonas\desktop\sidescroller\ents\ammo.cpp
+	"ammo.hpp"
+
+1250196936 source:c:\users\jonas\desktop\sidescroller\ents\astroid.cpp
+	"astroid.hpp"
+
+1250196936 source:c:\users\jonas\desktop\sidescroller\ents\background.cpp
+	"background.hpp"
+
+1250196936 source:c:\users\jonas\desktop\sidescroller\ents\camlimit.cpp
+	"camlimit.hpp"
+
+1250196936 source:c:\users\jonas\desktop\sidescroller\ents\cargobox.cpp
+	"cargobox.hpp"
+
+1250196936 source:c:\users\jonas\desktop\sidescroller\ents\effector.cpp
+	"effector.hpp"
+
+1250202512 source:c:\users\jonas\desktop\sidescroller\ents\playership.cpp
+	"playership.hpp"
+
+1250196936 source:c:\users\jonas\desktop\sidescroller\ents\weapon.cpp
+	"weapon.hpp"
+
+1250207131 source:c:\users\jonas\desktop\sidescroller\entspawner.cpp
+	"entspawner.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\game.cpp
+	"game.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\game.hpp
+	<vector>
+	"glfx.hpp"
+	"level.hpp"
+	"text.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"playerprofile.hpp"
+	"settings.hpp"
+	"scene.hpp"
+	"camcontrol.hpp"
+	"missioninfo.hpp"
+	"hud.hpp"
+	"gameinfo.hpp"
+	"console.hpp"
+	"terrain.hpp"
+	"collisiontest.hpp"
+	"effectqueue.hpp"
+
+1250197314 c:\users\jonas\desktop\sidescroller\glfx.hpp
+	"settings.hpp"
+	"scene.hpp"
+	"general.hpp"
+	"console.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+
+1250197237 c:\users\jonas\desktop\sidescroller\missioninfo.hpp
+	<fstream>
+	<iostream>
+	<vector>
+	"console.hpp"
+	"dirs.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\hud.hpp
+	"gameinfo.hpp"
+	"sprite.hpp"
+	"scene.hpp"
+	"text.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\gameinfo.hpp
+	"playerprofile.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\terrain.hpp
+	<vector>
+	"console.hpp"
+	"level.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\general.cpp
+	"general.hpp"
+
+1250197427 source:c:\users\jonas\desktop\sidescroller\glfx.cpp
+	"glfx.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\hud.cpp
+	"hud.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\isfile.cpp
+	"isfile.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\label.cpp
+	"label.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\level.cpp
+	"level.hpp"
+
+1250197550 source:c:\users\jonas\desktop\sidescroller\main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<windows.h>
+	<GL/glext.h>
+	"scene.hpp"
+	"settings.hpp"
+	"menu.hpp"
+	"text.hpp"
+	"sprite.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"screenshot.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	"glfx.hpp"
+
+1250197228 c:\users\jonas\desktop\sidescroller\win32\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+
+1250201973 c:\users\jonas\desktop\sidescroller\menu.hpp
+	<vector>
+	"button.hpp"
+	"checkbox.hpp"
+	"control.hpp"
+	"label.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"sprite.hpp"
+	"dirs.hpp"
+	"playerprofile.hpp"
+	"itemInfo.hpp"
+	"editor.hpp"
+	"game.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1250197237 c:\users\jonas\desktop\sidescroller\iteminfo.hpp
+	<iostream>
+	"sprite.hpp"
+
+1250197238 c:\users\jonas\desktop\sidescroller\screenshot.hpp
+	"general.hpp"
+	<GL/glext.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<iostream>
+	"console.hpp"
+
+1250206900 source:c:\users\jonas\desktop\sidescroller\menu.cpp
+	"menu.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\missioninfo.cpp
+	"missioninfo.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\playerprofile.cpp
+	"playerprofile.hpp"
+	<stdio.h>
+	<string.h>
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\screenshot.cpp
+	"screenshot.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\settings.cpp
+	"settings.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\sprite.cpp
+	"sprite.hpp"
+
+1250197237 source:c:\users\jonas\desktop\sidescroller\terrain.cpp
+	"terrain.hpp"
+
+1250197238 source:c:\users\jonas\desktop\sidescroller\text.cpp
+	"text.hpp"
+
+1250796807 /home/dusted/Desktop/kode/sidescroller/nag.hpp
+	<iostream>
+	<GL/gl.h>
+	<SDL/SDL.h>
+	"background.hpp"
+	"control.hpp"
+	"scene.hpp"
+	"settings.hpp"
+
+1250800969 source:/home/dusted/Desktop/kode/sidescroller/nag.cpp
+	"nag.hpp"
+
+1250876828 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/nag.hpp
+	<iostream>
+	<GL/gl.h>
+	<SDL/SDL.h>
+	"background.hpp"
+	"control.hpp"
+	"scene.hpp"
+	"settings.hpp"
+
+1250876828 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/nag.cpp
+	"nag.hpp"
+
+1251474891 /home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/bullets.hpp
+	<vector>
+	"../general.hpp"
+	"../sprite.hpp"
+	"ammo.hpp"
+
+1251474891 source:/home/dusted/Desktop/Desktop/dusted/ting/src/homebrew/sidescroller/ents/bullets.cpp
+	"bullets.hpp"
+
+1251418463 /home/dusted/Desktop/kode/sidescroller/ents/bullets.hpp
+	<vector>
+	"../general.hpp"
+	"../sprite.hpp"
+	"ammo.hpp"
+
+1251423287 source:/home/dusted/Desktop/kode/sidescroller/ents/bullets.cpp
+	"bullets.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\background.cpp
+	"background.hpp"
+	"dirs.hpp"
+
+1266322934 c:\documents and settings\jimmy\skrivebord\sidescroller\background.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<math.h>
+	"console.hpp"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_platform.h
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\begin_code.h
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\close_code.h
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_keysym.h
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\console.hpp
+	<iostream>
+	<stdarg.h>
+	<vector>
+	<cmath>
+	"text.hpp"
+	"scene.hpp"
+	"control.hpp"
+
+1266322948 c:\documents and settings\jimmy\skrivebord\sidescroller\text.hpp
+	<iostream>
+	<SDL/SDL_ttf.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	"dirs.hpp"
+
+1259574197 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\dirs.hpp
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\scene.hpp
+	"general.hpp"
+
+1266323074 c:\documents and settings\jimmy\skrivebord\sidescroller\general.hpp
+	<GL/glew.h>
+	<iostream>
+	<GL/gl.h>
+	<cmath>
+	"console.hpp"
+
+1266323058 c:\documents and settings\jimmy\skrivebord\sidescroller\control.hpp
+	<SDL/SDL.h>
+	"scene.hpp"
+	"console.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\button.cpp
+	"button.hpp"
+	"control.hpp"
+	"dirs.hpp"
+
+1266323048 c:\documents and settings\jimmy\skrivebord\sidescroller\button.hpp
+	"sprite.hpp"
+	"control.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\sprite.hpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fstream>
+	<iostream>
+	<list>
+	<vector>
+	"dirs.hpp"
+	"scene.hpp"
+	"console.hpp"
+	"general.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\buttonset.cpp
+	"buttonset.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\buttonset.hpp
+	<vector>
+	"control.hpp"
+	"button.hpp"
+	"sprite.hpp"
+	"console.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\camcontrol.cpp
+	"camcontrol.hpp"
+
+1266323052 c:\documents and settings\jimmy\skrivebord\sidescroller\camcontrol.hpp
+	<vector>
+	"ents.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\ents.hpp
+	"sprite.hpp"
+	"control.hpp"
+	"camcontrol.hpp"
+	"collisiontest.hpp"
+	"ents/bullets.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\collisiontest.hpp
+	"sprite.hpp"
+	"general.hpp"
+	"console.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\bullets.hpp
+	<vector>
+	"../general.hpp"
+	"../sprite.hpp"
+	"ammo.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\ammo.hpp
+	"../sprite.hpp"
+	"../general.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\checkbox.cpp
+	"checkbox.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\checkbox.hpp
+	<iostream>
+	"sprite.hpp"
+	"control.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\collisiontest.cpp
+	"collisiontest.hpp"
+
+1259570606 source:c:\documents and settings\jimmy\skrivebord\sidescroller\console.cpp
+	"console.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\control.cpp
+	"control.hpp"
+	<iostream>
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\dirs.cpp
+	"dirs.hpp"
+	<windows.h>
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\editor.cpp
+	"editor.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\editor.hpp
+	<vector>
+	"sprite.hpp"
+	"control.hpp"
+	"text.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"dirs.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"level.hpp"
+	"ents.hpp"
+	"entspawner.hpp"
+
+1266322689 c:\documents and settings\jimmy\skrivebord\sidescroller\settings.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"dirs.hpp"
+	"console.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\label.hpp
+	"text.hpp"
+	"control.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\level.hpp
+	<algorithm>
+	<vector>
+	<cmath>
+	"entspawner.hpp"
+	"settings.hpp"
+	"console.hpp"
+	"general.hpp"
+	"ents/bullets.hpp"
+
+1266323061 c:\documents and settings\jimmy\skrivebord\sidescroller\entspawner.hpp
+	<vector>
+	<dirent.h>
+	"dirs.hpp"
+	"sprite.hpp"
+	"console.hpp"
+	"ents.hpp"
+	"ents/playership.hpp"
+	"ents/camlimit.hpp"
+	"ents/background.hpp"
+	"ents/astroid.hpp"
+	"ents/cargobox.hpp"
+	"ents/effector.hpp"
+	"ents/bullets.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\playership.hpp
+	"../ents.hpp"
+	"../playerprofile.hpp"
+	"weapon.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\playerprofile.hpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"isfile.hpp"
+	"dirs.hpp"
+	"console.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\isfile.hpp
+	<sys/stat.h>
+	<iostream>
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\weapon.hpp
+	"../sprite.hpp"
+	"ammo.hpp"
+	"../general.hpp"
+	"bullets.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\camlimit.hpp
+	"../ents.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\background.hpp
+	"../ents.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\astroid.hpp
+	"../ents.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\cargobox.hpp
+	"../ents.hpp"
+
+1259573324 c:\documents and settings\jimmy\skrivebord\sidescroller\ents\effector.hpp
+	"../ents.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\effectqueue.cpp
+	"effectqueue.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\effectqueue.hpp
+	<list>
+	"general.hpp"
+	"console.hpp"
+	"effects/effectresource.hpp"
+	"effects/base.hpp"
+	"effects/fxspeedup.hpp"
+
+1259573305 c:\documents and settings\jimmy\skrivebord\sidescroller\effects\effectresource.hpp
+	"../general.hpp"
+	"../console.hpp"
+	"../camcontrol.hpp"
+	"../scene.hpp"
+
+1259573305 c:\documents and settings\jimmy\skrivebord\sidescroller\effects\base.hpp
+	"effectresource.hpp"
+
+1259573305 c:\documents and settings\jimmy\skrivebord\sidescroller\effects\fxspeedup.hpp
+	"base.hpp"
+
+1259573305 source:c:\documents and settings\jimmy\skrivebord\sidescroller\effects\fxspeedup.cpp
+	"fxspeedup.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents.cpp
+	"ents.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\ammo.cpp
+	"ammo.hpp"
+	<iostream>
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\astroid.cpp
+	"astroid.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\background.cpp
+	"background.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\bullets.cpp
+	"bullets.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\camlimit.cpp
+	"camlimit.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\cargobox.cpp
+	"cargobox.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\effector.cpp
+	"effector.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\playership.cpp
+	"playership.hpp"
+
+1259573324 source:c:\documents and settings\jimmy\skrivebord\sidescroller\ents\weapon.cpp
+	"weapon.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\entspawner.cpp
+	"entspawner.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\game.cpp
+	"game.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\game.hpp
+	<vector>
+	"glfx.hpp"
+	"level.hpp"
+	"text.hpp"
+	"control.hpp"
+	"sprite.hpp"
+	"playerprofile.hpp"
+	"settings.hpp"
+	"scene.hpp"
+	"camcontrol.hpp"
+	"missioninfo.hpp"
+	"hud.hpp"
+	"gameinfo.hpp"
+	"console.hpp"
+	"terrain.hpp"
+	"collisiontest.hpp"
+	"effectqueue.hpp"
+	"ents/bullets.hpp"
+
+1266322781 c:\documents and settings\jimmy\skrivebord\sidescroller\glfx.hpp
+	<GL/glew.h>
+	"settings.hpp"
+	"scene.hpp"
+	"general.hpp"
+	"console.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\missioninfo.hpp
+	<fstream>
+	<iostream>
+	<vector>
+	"console.hpp"
+	"dirs.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\hud.hpp
+	"gameinfo.hpp"
+	"sprite.hpp"
+	"scene.hpp"
+	"text.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\gameinfo.hpp
+	"playerprofile.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\terrain.hpp
+	<vector>
+	"console.hpp"
+	"level.hpp"
+	"scene.hpp"
+	"general.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\general.cpp
+	"general.hpp"
+
+1266322749 source:c:\documents and settings\jimmy\skrivebord\sidescroller\glfx.cpp
+	"glfx.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\hud.cpp
+	"hud.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\isfile.cpp
+	"isfile.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\label.cpp
+	"label.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\level.cpp
+	"level.hpp"
+
+1266319217 source:c:\documents and settings\jimmy\skrivebord\sidescroller\main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<windows.h>
+	<GL/glext.h>
+	"scene.hpp"
+	"settings.hpp"
+	"menu.hpp"
+	"text.hpp"
+	"sprite.hpp"
+	"label.hpp"
+	"checkbox.hpp"
+	"screenshot.hpp"
+	"dirs.hpp"
+	"console.hpp"
+	"glfx.hpp"
+	"nag.hpp"
+
+1259574194 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\menu.hpp
+	<vector>
+	"button.hpp"
+	"checkbox.hpp"
+	"control.hpp"
+	"label.hpp"
+	"buttonset.hpp"
+	"background.hpp"
+	"settings.hpp"
+	"sprite.hpp"
+	"dirs.hpp"
+	"playerprofile.hpp"
+	"itemInfo.hpp"
+	"editor.hpp"
+	"game.hpp"
+	"missioninfo.hpp"
+	"ents/playership.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\iteminfo.hpp
+	<iostream>
+	"sprite.hpp"
+
+1259574206 c:\documents and settings\jimmy\skrivebord\sidescroller\screenshot.hpp
+	"general.hpp"
+	<GL/glext.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<iostream>
+	"console.hpp"
+
+1266323154 c:\documents and settings\jimmy\skrivebord\sidescroller\nag.hpp
+	<iostream>
+	<GL/glew.h>
+	<GL/gl.h>
+	<SDL/SDL.h>
+	"background.hpp"
+	"control.hpp"
+	"scene.hpp"
+	"settings.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\menu.cpp
+	"menu.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\missioninfo.cpp
+	"missioninfo.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\nag.cpp
+	"nag.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\playerprofile.cpp
+	"playerprofile.hpp"
+	<stdio.h>
+	<string.h>
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\screenshot.cpp
+	"screenshot.hpp"
+
+1266322727 source:c:\documents and settings\jimmy\skrivebord\sidescroller\settings.cpp
+	"settings.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\sprite.cpp
+	"sprite.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\terrain.cpp
+	"terrain.hpp"
+
+1259574206 source:c:\documents and settings\jimmy\skrivebord\sidescroller\text.cpp
+	"text.hpp"
+
+1262253978 c:\documents and settings\jimmy\skrivebord\sidescroller\glew.c
+	<GL/glew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+
+1262253978 c:\documents and settings\jimmy\skrivebord\sidescroller\gl\glew.h
+	<stddef.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1262257578 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\gl\glew.h
+	<stddef.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1262257578 source:c:\documents and settings\jimmy\skrivebord\sidescroller\glew.c
+	<GL/glew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+
+1262257578 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\gl\wglew.h
+	<windows.h>
+
+1262257578 c:\documents and settings\jimmy\skrivebord\sidescroller\win32\include\gl\glxew.h
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xmd.h>
+	<GL/glew.h>
+	<inttypes.h>
+

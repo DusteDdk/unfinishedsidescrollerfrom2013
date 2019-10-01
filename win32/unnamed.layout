@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Windows" />
+	<File name="..\background.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1093" topLine="29" />
+	</File>
+	<File name="..\button.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1484" topLine="54" />
+	</File>
+	<File name="..\button.hpp" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\camcontrol.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="85" topLine="0" />
+	</File>
+	<File name="..\console.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="1768" topLine="54" />
+	</File>
+	<File name="..\control.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="261" topLine="0" />
+	</File>
+	<File name="..\data\shaders\blackwhite.fs" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\data\shaders\overexp.fs" open="0" top="0" tabpos="5">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="..\ents\background.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="133" topLine="0" />
+	</File>
+	<File name="..\entspawner.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="227" topLine="0" />
+	</File>
+	<File name="..\general.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="81" topLine="0" />
+	</File>
+	<File name="..\glew.c" open="0" top="0" tabpos="0">
+		<Cursor position="1732" topLine="15" />
+	</File>
+	<File name="..\glfx.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="5758" topLine="246" />
+	</File>
+	<File name="..\glfx.hpp" open="1" top="0" tabpos="2">
+		<Cursor position="76" topLine="8" />
+	</File>
+	<File name="..\main.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2600" topLine="141" />
+	</File>
+	<File name="..\menu.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="29438" topLine="823" />
+	</File>
+	<File name="..\menu.hpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\nag.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="..\screenshot.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="..\settings.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="373" topLine="0" />
+	</File>
+	<File name="..\settings.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="714" topLine="0" />
+	</File>
+	<File name="..\text.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="1053" topLine="34" />
+	</File>
+</CodeBlocks_layout_file>

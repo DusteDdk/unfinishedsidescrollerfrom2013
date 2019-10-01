@@ -1,0 +1,9 @@
+> Console Initialized:
+>   17 lines on screen.
+>   500 lines scroll buffer.
+> fSinCos: Using 281 KiB on Sin/Cos lookup tables.
+> Read './data/missions/missionlist.txt'
+> Found 3 missions.
+> Mission: mission0.txt
+> Mission: mission1.txt
+> Mission: mission2.txt

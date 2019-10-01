@@ -1,0 +1,10 @@
+file=gfx/objs/shieldpower.png
+framex=48
+framey=48
+frames=32
+rate=80
+rows=5
+cols=7
+playing=1
+looping=1
+reverse=0
